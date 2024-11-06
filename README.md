@@ -3,9 +3,9 @@ Prueba de envio de codigo y de screenshot
 
 PRACTICA #1
 
-![image](https://github.com/user-attachments/assets/2634c36e-4b78-4bb9-ac17-25f32d416260)
+![image](https://github.com/user-attachments/assets/6828ec11-3733-4e97-83e1-bf23ed4ef558)
 
-![image](https://github.com/user-attachments/assets/b37e6952-1183-4552-b580-415726681f74)
+![image](https://github.com/user-attachments/assets/a7908a2b-f2db-4be0-80a3-a3e792e1caaa)
 
 ![image](https://github.com/user-attachments/assets/e407cd18-5c27-4366-9264-506bf45a97c9)
 
