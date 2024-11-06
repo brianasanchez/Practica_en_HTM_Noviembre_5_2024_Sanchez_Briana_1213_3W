@@ -19,5 +19,6 @@ PRACTICA #2
 
 ![image](https://github.com/user-attachments/assets/60637c48-41bc-4d2c-944d-7dff1e459a33)
 
-![image](https://github.com/user-attachments/assets/07dad6c2-e042-46b2-a087-ecc7c1083e9e)
+![image](https://github.com/user-attachments/assets/065e6c77-c90f-4ef2-b82e-0664e038ad57)
+
 
